@@ -1,1 +1,3 @@
 hi iam file1
+new content
+new stash content
